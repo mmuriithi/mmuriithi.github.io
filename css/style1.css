@@ -59,7 +59,8 @@ a {
 }
 
 .content-section {
-  display: table;
+  padding: 100px 0;
+    display: table;
   width: 100%;
   text-align: center;
 }
@@ -70,6 +71,7 @@ a {
 .projects-section {
   display: table;
     width: 100%;
+  padding: 100px 0;
   text-align: center;
   background: url(../img/projects-bg.jpg) no-repeat bottom center scroll;
   background-size: cover;
@@ -86,7 +88,7 @@ a {
   }
   .projects-section {
     height: 100%;
-      padding: 0px
+
   }
 }
 .btn {
